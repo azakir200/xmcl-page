@@ -54,7 +54,7 @@ Pour exécuter l'application, vous devez autoriser le logiciel à s'exécuter da
 
 ```sh
 # autoriser les logiciels de n'importe quelle source
-sudo spctl --master-disable
+sudo spctl --master-disableddddd
 # effacer l'attribut de quarantaine
 sudo xattr -c /Applications/X\ Minecraft\ Launcher.app
 ```
